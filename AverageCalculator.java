@@ -15,7 +15,7 @@ import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 import java.util.Set;
 import java.util.StringTokenizer;
-
+//Commeny
 public class AverageCalculator {
 
 	public static boolean isPrevious(CustomerBean bean, int i, ArrayList<CustomerBean> cList){
