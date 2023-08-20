@@ -16,6 +16,7 @@ import java.util.regex.Pattern;
 import java.util.Set;
 import java.util.StringTokenizer;
 //Commeny
+//adding 2nd comment
 public class AverageCalculator {
 
 	public static boolean isPrevious(CustomerBean bean, int i, ArrayList<CustomerBean> cList){
